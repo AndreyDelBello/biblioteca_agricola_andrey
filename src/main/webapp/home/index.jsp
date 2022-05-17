@@ -8,6 +8,6 @@
         <title>Exemplo de Visão - View</title>
     </head>
     <body>
-        <h1> Gabriela Pellin Perosa - Lista de livros agrícola - biblioteca da Fatec Pompeia</h1>
+        <h1> Andrey Perez Del Bello - Lista de livros agrícola - biblioteca da Fatec Pompeia</h1>
     </body>
 </html>
